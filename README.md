@@ -9,4 +9,4 @@ Previous Releases:
 
 - HPI 2.1 (Bell Pepper)
 - HPI 2.2 (Pimento)
-- HPI 2.3 (Ancho)
+- HPI 2.3 (Ancho) (<a href='https://github.com/tsgrp/hpi/wiki/Home/0d01985bf7851eba9d171a682421af23943aa78a'>Wiki Tag</a>)
