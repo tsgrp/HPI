@@ -1,0 +1,4 @@
+[submodule "2.3-wiki"]
+	path = 2.3-wiki
+	url = https://github.com/tsgrp/hpi.wiki.git
+	branch = 2.3-wiki
