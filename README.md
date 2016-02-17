@@ -1,7 +1,7 @@
 HPI
 ===
 
-Current release: HPI 2.5 (Jalepeno)
+Current release: HPI 2.5 (Jalapeno)
 
 Please see the <a href='https://github.com/tsgrp/hpi/wiki'>wiki</a> for documentation
 
