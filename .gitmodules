@@ -2,3 +2,7 @@
 	path = 2.3-wiki
 	url = https://github.com/tsgrp/hpi.wiki.git
 	branch = 2.3-wiki
+[submodule "2.4-wiki"]
+	path = 2.4-wiki
+	url = https://github.com/tsgrp/hpi.wiki.git
+	branch = 2.4-wiki
