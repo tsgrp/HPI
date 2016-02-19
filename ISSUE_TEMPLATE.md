@@ -1,5 +1,6 @@
 Describe your issue here.  Some notes:
 
+- The title of your issue should be non-technical.  A business analyst should understand what the issue is.  Even if the issue is very low level, the title should be understandable by anyone who knows what HPI is at a high level. 
 - For most issues, you'll want to describe the issue from the user's perspective.  What does the user see?  What is incorrect?
 - If possible, describe steps to recreate the issue
 - Add your thoughts as to what could be wrong
