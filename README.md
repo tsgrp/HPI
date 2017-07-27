@@ -1,4 +1,4 @@
-HPI
+OpenContent High Performance Interface (HPI)
 ===
 
 Current release: HPI 2.6 (Chipotle)
