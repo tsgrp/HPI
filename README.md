@@ -10,7 +10,7 @@ Previous Releases:
 
 Release Name | Internal Rev | Codename | Tag Date
 -- | -- | -- | --
-OCMS Spring 2018 | 3.0.TAG | Chipotle | 5/11/2018
+OCMS Spring 2018 | 3.0.20597 | Chipotle | 5/11/2018
 HPI Spring 2017 | 2.5.177223 | Jalapeno | 4/17/2017
 HPI Winter 2016 | 2.4.14240 | Rocotillo | 2/2/2016
 HPI Spring 2015 | 2.3.12094 | Ancho | 4/17/2015
