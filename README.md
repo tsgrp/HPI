@@ -8,7 +8,7 @@ Please see the <a href='https://github.com/tsgrp/hpi/wiki'>wiki</a> for document
 
 Previous Releases:
 
-Release Name | Internal Rev Number | Codename | Tag Date
+Release Name | Internal Rev | Codename | Tag Date
 -- | -- | -- | --
 OCMS Spring 2018 | 3.0.TAG | Chipotle | 5/11/2018
 HPI Spring 2017 | 2.5.177223 | Jalapeno | 4/17/2017
