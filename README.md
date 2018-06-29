@@ -10,10 +10,10 @@ Previous Releases:
 
 Release Name | Internal Rev | Codename | Tag Date
 -- | -- | -- | --
-OCMS Spring 2018 | 3.0.20597 | Chipotle | 5/11/2018
-HPI Spring 2017 | 2.5.17223 | Jalapeno | 4/17/2017
-HPI Winter 2016 | 2.4.14240 | Rocotillo | 2/2/2016
-HPI Spring 2015 | 2.3.12094 | Ancho | 4/17/2015
-HPI Fall 2014 | 2.2.10266 | Pimento | 9/16/2014
-HPI Spring 2014 | 2.1.9478 | Bell Pepper | 6/24/2014
+OCMS Spring 2018 | 3.0.1.20751 | Chipotle | 5/11/2018
+HPI Spring 2017 | 2.5.0.17223 | Jalapeno | 4/17/2017
+HPI Winter 2016 | 2.4.0.14240 | Rocotillo | 2/2/2016
+HPI Spring 2015 | 2.3.0.12094 | Ancho | 4/17/2015
+HPI Fall 2014 | 2.2.0.10266 | Pimento | 9/16/2014
+HPI Spring 2014 | 2.1.0.9478 | Bell Pepper | 6/24/2014
 
