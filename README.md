@@ -2,8 +2,6 @@ OpenContent Management Suite (OCMS)
 ===
 Note - OCMS was previously the OpenContent High Performance Interface (HPI).  Any documentation references to HPI shuold be considered equivalent OCMS.
 
-Current development: OCMS Fall 2018 - v3.1 (Hot Wax)
-
 Please see the <a href='https://github.com/tsgrp/hpi/wiki'>wiki</a> for documentation
 
 Previous Releases:
