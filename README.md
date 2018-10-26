@@ -6,9 +6,9 @@ Please see the <a href='https://github.com/tsgrp/hpi/wiki'>wiki</a> for document
 
 Previous Releases:
 
-Release Name | Internal Rev | Codename | Tag Date
+Release Name | Revision Number | Codename | Tag Date
 -- | -- | -- | --
-OCMS Spring 2019 | 3.2.xxxxx | TBD | TBD
+OCMS Spring 2019 | 3.2.xxxxx | Hidalgo | Target: Spring 2019
 OCMS Fall 2018 | 3.1.21720 | Hot Wax | 10/8/2018 
 OCMS Spring 2018 | 3.0.1.20751 | Chipotle | 5/11/2018
 HPI Spring 2017 | 2.5.0.17223 | Jalapeno | 4/17/2017
