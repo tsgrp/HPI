@@ -9,7 +9,7 @@ Previous Releases:
 Release Name | Revision Number | Codename | Tag Date
 -- | -- | -- | --
 OCMS Spring 2020 | 3.4.xxxxx | TBD | Target: Spring 2020
-OCMS Fall 2019 | 3.3.0.24431 | Serrano | Target: 12/17/2019
+OCMS Fall 2019 | 3.3.0.24431 | Serrano | 12/17/2019
 OCMS Spring 2019 | 3.2.0.23071 | Hidalgo | 6/11/2019
 OCMS Fall 2018 | 3.1.21720 | Hot Wax | 10/8/2018 
 OCMS Spring 2018 | 3.0.1.20751 | Chipotle | 5/11/2018
