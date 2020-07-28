@@ -1,6 +1,10 @@
-OpenContent Management Suite (OCMS)
+Alfresco Content Accelerator (ACA)
 ===
-Note - OCMS was previously the OpenContent High Performance Interface (HPI).  Any documentation references to "HPI" should be considered equivalent to "OCMS".
+Note - the Alfresco Content Accelerator was previously known as:
+  - OpenContent Management Suite (OCMS)
+  - OpenContent High Performance Interface (HPI)
+
+Any documentation references to "OCMS" or "HPI" should be considered equivalent to "ACA".
 
 Please see the <a href='https://github.com/tsgrp/hpi/wiki'>wiki</a> for documentation
 
@@ -9,7 +13,7 @@ Previous Releases:
 Release Name | Revision Number | Codename | Tag Date
 -- | -- | -- | --
 OCMS Fall 2020 | 3.5.0.xxxxxx | TBD | Target: Fall 2020
-OCMS Spring 2020 | 3.4.0.25305 | Shipkas | 6/5/2020
+ACA Spring 2020 | 3.4.0.25305 | Shipkas | 6/5/2020
 OCMS Fall 2019 | 3.3.0.24635 | Serrano | 12/17/2019
 OCMS Spring 2019 | 3.2.0.23071 | Hidalgo | 6/11/2019
 OCMS Fall 2018 | 3.1.0.21720 | Hot Wax | 10/8/2018 
