@@ -8,7 +8,7 @@ Any documentation references to "OCMS" or "HPI" should be considered equivalent 
 
 Please see the <a href='https://github.com/tsgrp/hpi/wiki'>wiki</a> for documentation
 
-Previous Releases:
+Previous X.Y Releases:
 
 Release Name | Revision Number | Codename | Tag Date
 -- | -- | -- | --
