@@ -12,7 +12,7 @@ Previous Releases:
 
 Release Name | Revision Number | Codename | Tag Date
 -- | -- | -- | --
-OCMS Fall 2020 | 3.5.0.xxxxxx | TBD | Target: Fall 2020
+TBD | 3.5.0.xxxxxx | TBD | TBD
 ACA Spring 2020 | 3.4.0.25305 | Shipkas | 6/5/2020
 OCMS Fall 2019 | 3.3.0.24635 | Serrano | 12/17/2019
 OCMS Spring 2019 | 3.2.0.23071 | Hidalgo | 6/11/2019
